@@ -1,6 +1,6 @@
 ## **1. 프로젝트 개요** <br />
 
-**프로젝트 주제**: 
+**프로젝트 주제** 
 > 기업의 모든 자원을 통합 관리하는 소프트웨어 개발
 
 <br />
@@ -16,12 +16,13 @@
 | 신지선   | 프론트엔드   | 커뮤니티 및 고객문의 페이지 및 API 구현 & DB 연동, 문서작성 |
 | 이가연   | 프론트엔드   | 로그인 및 회원가입 페이지 및 API 구현 & DB 연동, 문서작성   |
 
+<br />
 
 ### **1.3 기술스택**
-| #             | 스택                   | 상세                                              |
+| 구분             | 스택                   | 상세                                              |
 |:-------------:|------------------------|:--------------------------------------------------|
-| **Front-End** | React, HTML, CSS, JS   | 웹페이지 UI & UX 구현을 위한 기본적인 언어 <br /> 라이브러리 : JQuery, Bootstrap, Handlebars 사용 <br /> 사용자 경험 및 렌더링 성능 개선을 위한 React 활용  |
-| **Back-End**  | Spring     | JS기반 싱글스레드로 동작하는 Node.js & Express 사용 <br /> V8 엔진으로 브라우저에 컴파일 되는 Tool  |
+| **Front-End** | React, HTML, CSS, JS   | 사용자 경험 및 렌더링 성능 개선을 위한 React 활용  |
+| **Back-End**  | Spring     | SpringBoot, Mybatis, jwt  |
 | **DB**        | MySQL, Redis          | 개발환경에서 많이 사용되는 MySQL을 사용 <br /> ERwin 툴을 사용하여 ERD 설계 <br /> 세션id 관리를 위한 메모리 기반 NoSQL DB Redis 활용 |
 | **Version**   | Git, Github          | 버전관리 및 소스코드를 통합하고 관리하기 위해 Git 사용 |
 | **DevOps**    | Docker               | 이미지 & 컨테이너를 통한 CI/CD 및 개발 및 배포 환경 관리 |
