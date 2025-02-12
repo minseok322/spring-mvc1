@@ -1,7 +1,9 @@
 ## **01. 프로젝트 개요** <br />
-### **1.1 프로젝트 개요**
-**프로젝트 주제** 
+### **1.1 프로젝트 주제**
 > 기업의 모든 자원을 통합 관리하는 소프트웨어 개발
+**프로젝트 참고자료**:
+> <a href="https://www.mindmeister.com/app/map/3610946959?t=64Hc4qbaC3"><strong>Mind Map Link</strong></a>: 마인드맵. <br />
+> <a href="https://creatie.ai/goto/FAaxZlEm?page_id=M&amp;file=146188080333945"><strong>Page Design Link</strong></a>: 화면정의서. <br />
 
 <br />
 
