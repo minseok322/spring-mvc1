@@ -22,15 +22,15 @@
 | 구분             | 스택                   | 상세                                              |
 |:-------------:|------------------------|:--------------------------------------------------|
 | **Front-End** | React, HTML, CSS, JS   | 사용자 경험 및 렌더링 성능 개선을 위한 React 활용  |
-| **Back-End**  | Spring     | SpringBoot, Mybatis, jwt  |
-| **DB**        | MySQL, Redis          | 개발환경에서 많이 사용되는 MySQL을 사용 <br /> ERwin 툴을 사용하여 ERD 설계 <br /> 세션id 관리를 위한 메모리 기반 NoSQL DB Redis 활용 |
+| **Back-End**  | Spring     | SpringBoot, Mybatis, SpringSecurity  |
+| **DB**        | MySQL, Redis          | uid 관리를 위한 메모리 기반 NoSQL DB Redis 활용 |
 | **Version**   | Git, Github          | 버전관리 및 소스코드를 통합하고 관리하기 위해 Git 사용 |
 | **DevOps**    | Docker               | 이미지 & 컨테이너를 통한 CI/CD 및 개발 및 배포 환경 관리 |
 
 <br />
 
 ### **1.4 타임라인**
-- **프로젝트 기간**: 
+**프로젝트 기간**: 
 > 2025년 3월 3일 ~ 2025년 3월 31일 <br />
 
 | no. | 진행과정명              | 소요기간 | 상세                                              |
