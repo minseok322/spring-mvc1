@@ -1,7 +1,10 @@
 | 구분           | 기능         | 설명                    | URL                  |
 |:---:|------------------|-----------------------|----------------------|
-| 인증/회원 관리 | 로그인      | JWT 기반 로그인         | /auth/login          |
-|               | 회원찾기    | ID 찾기 & PW 재설정      | /auth/login/find     |
-|               | 회원가입    | 사용자 계정 생성        | /auth/register       |
+| 인증/인가 | 로그인      | JWT 기반 로그인         | /auth/login          |
+|               | 회원찾기    |  PW 재설정      | /auth/login/find     |
 |               | 로그아웃    | JWT 삭제 및 세션 초기화  | /auth/logout         |
 |               | JWT 토큰 갱신 | 자동 로그인 유지        | N/A (백엔드 처리)    |
+| 관리자        | 사원 관리   | 사원 조회   | /admin/users         |
+|               |             | 사원 등록       | /admin/add       |
+|               |             | 사원 정보수정       | /admin/edit       |
+|               |             | 사원 삭제       | /admin/delete       |
